@@ -1,4 +1,3 @@
-## such craftmanship
 
 ## setup
 `virtualenv virtualenv`
